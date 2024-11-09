@@ -1,1 +1,4 @@
-[1023/154727.058:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1109/131731.095:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Nieprawid≥owy klucz do uøycia w podanym stanie. (0x8009000B)
+[1109/131731.526:ERROR:block_files.cc(465)] Failed to open C:/Users/Michu≈õ/Desktop/PuzzleMaze/Puzzle-maze/PuzzleMaze/Saved/webcache_4430\Cache\data_0
+[1109/131732.509:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1109/131931.279:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
