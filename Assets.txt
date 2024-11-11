@@ -1,6 +1,20 @@
 Music:
 
 scary-ambience-1-157013 - Music by Gaston A-P from Pixabay, https://pixabay.com/users/xtremefreddy-32332307/
+horror-background-atmosphere-16-246919 - Music by Universfield from Pixabay, https://pixabay.com/users/universfield-28281460/
+mixkit-creaky-door-open-195, mixkit-creaky-closing-wood-door-189, mixkit-safe-lock-2853,mixkit-door-key-in-door-lock-2842 -https://mixkit.co/free-sound-effects/doors/
+item-equip-6904 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/equip/
+
+luggage-drop-1-47660 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/drop/?pagi=2
+
+drawer-open-98801 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/drawer/
+button-124476 - Sound Effect by Universfield from Pixabay https://pixabay.com/sound-effects/search/confirmed/
+
+wrong-47985 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/denied/
+fluorescent-lamp-flickering-17625 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/%20fluorescent%20lamp%20flickering/
+
+
+
 
 Models:
 Old Rusted Modular Pipes - https://www.fab.com/listings/ca891145-b872-496b-b72b-8d4b320ad6cd
