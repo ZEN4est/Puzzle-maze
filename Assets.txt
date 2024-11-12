@@ -13,6 +13,10 @@ button-124476 - Sound Effect by Universfield from Pixabay https://pixabay.com/so
 wrong-47985 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/denied/
 fluorescent-lamp-flickering-17625 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/%20fluorescent%20lamp%20flickering/
 
+factory-fluorescent-light-buzz-6871 - Sound Effect from Pixabay https://pixabay.com/sound-effects/search/%20fluorescent%20lamp%20flickering/
+
+game-level-complete-143022 - Sound Effect by Universfield from Pixabay https://pixabay.com/sound-effects/search/completed/
+
 
 
 
